@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://cutssmm-c395f209.zappy5.app
+https://example.com
 cutssmm מציעה חבילות לייקים לאינסטגרם בכמויות ענק במחירים שאי אפשר לסרב להם. שיווק דיגיטלי חכם מתחיל כאן — בחר חבילה ותתחיל לצמוח עכשיו.
 
 ### איך זה עובד
-https://cutssmm-c395f209.zappy5.app/how-it-works
+https://example.com/how-it-works
 בחר חבילה, שלם, קבל מפתח אישי ופתח טיקט בדיסקורד — ותוך זמן קצר הלייקים אצלך. כך עובדת רכישת לייקים בכמות גדולה בצורה הכי חלקה שיש.
 
 ### משלוח דיסקורד
-https://cutssmm-c395f209.zappy5.app/discord-delivery
+https://example.com/discord-delivery
 אחרי הרכישה פותחים טיקט בדיסקורד, מעלים הוכחת תשלום ומפתח, ומקבלים את הלייקים ישירות. מערכת אספקה מהירה ובטוחה לכל חבילות הלייקים שלנו.
 
 ### צור קשר
-https://cutssmm-c395f209.zappy5.app/contact
+https://example.com/contact
 צור קשר עם צוות cutssmm לכל שאלה על חבילות לייקים, רכישת לייקים בכמות גדולה או תמיכה טכנית. אנחנו זמינים ומוכנים לעזור — אל תהסס לפנות אלינו עכשיו.
 
 ### Products
-https://cutssmm-c395f209.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - cutssmm
 
 ### Cart
-https://cutssmm-c395f209.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://cutssmm-c395f209.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://cutssmm-c395f209.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://cutssmm-c395f209.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://cutssmm-c395f209.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://cutssmm-c395f209.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - cutssmm
 
 ### Category
-https://cutssmm-c395f209.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - cutssmm
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://cutssmm-c395f209.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://cutssmm-c395f209.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://cutssmm-c395f209.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -93,8 +93,8 @@ A social media growth service that sells likes in bulk quantities. The purchase 
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://cutssmm-c395f209.zappy5.app/sitemap.xml
-- Robots: https://cutssmm-c395f209.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://cutssmm-c395f209.zappy5.app/llms-full.txt
-- Products (JSON): https://cutssmm-c395f209.zappy5.app/products.json
-- Products (Google Merchant RSS): https://cutssmm-c395f209.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
