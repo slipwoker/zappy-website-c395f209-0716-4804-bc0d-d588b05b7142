@@ -1,0 +1,100 @@
+# cutssmm — Generative Engine Optimization Map
+
+> A social media growth service that sells likes in bulk quantities. The purchase flow is unique: customers choose a package (e.g., 13K likes), complete payment, receive a KEY, then open a Discord ticket where they submit the key and proof of purchase to receive their likes. The brand operates with a dark, sleek black-and-white aesthetic and relies heavily on Discord as its customer support and delivery platform.
+
+---
+
+## Pages
+
+### בית
+https://cutssmm-c395f209.zappy5.app
+cutssmm מציעה חבילות לייקים לאינסטגרם בכמויות ענק במחירים שאי אפשר לסרב להם. שיווק דיגיטלי חכם מתחיל כאן — בחר חבילה ותתחיל לצמוח עכשיו.
+
+### איך זה עובד
+https://cutssmm-c395f209.zappy5.app/how-it-works
+בחר חבילה, שלם, קבל מפתח אישי ופתח טיקט בדיסקורד — ותוך זמן קצר הלייקים אצלך. כך עובדת רכישת לייקים בכמות גדולה בצורה הכי חלקה שיש.
+
+### משלוח דיסקורד
+https://cutssmm-c395f209.zappy5.app/discord-delivery
+אחרי הרכישה פותחים טיקט בדיסקורד, מעלים הוכחת תשלום ומפתח, ומקבלים את הלייקים ישירות. מערכת אספקה מהירה ובטוחה לכל חבילות הלייקים שלנו.
+
+### צור קשר
+https://cutssmm-c395f209.zappy5.app/contact
+צור קשר עם צוות cutssmm לכל שאלה על חבילות לייקים, רכישת לייקים בכמות גדולה או תמיכה טכנית. אנחנו זמינים ומוכנים לעזור — אל תהסס לפנות אלינו עכשיו.
+
+### Products
+https://cutssmm-c395f209.zappy5.app/products
+המוצרים שלנו - cutssmm
+
+### Cart
+https://cutssmm-c395f209.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://cutssmm-c395f209.zappy5.app/checkout
+תשלום
+
+### Login
+https://cutssmm-c395f209.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://cutssmm-c395f209.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://cutssmm-c395f209.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://cutssmm-c395f209.zappy5.app/product/:slug
+פרטי המוצר - cutssmm
+
+### Category
+https://cutssmm-c395f209.zappy5.app/category/:slug
+מוצרים - cutssmm
+
+## Legal & Policy
+
+### Privacy Policy
+https://cutssmm-c395f209.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://cutssmm-c395f209.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://cutssmm-c395f209.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About cutssmm
+A social media growth service that sells likes in bulk quantities. The purchase flow is unique: customers choose a package (e.g., 13K likes), complete payment, receive a KEY, then open a Discord ticket where they submit the key and proof of purchase to receive their likes. The brand operates with a dark, sleek black-and-white aesthetic and relies heavily on Discord as its customer support and delivery platform.
+
+## Target Audience
+- יוצרי תוכן
+- מותגים מקוונים
+- קהילות דיסקורד
+
+## Industry
+שיווק דיגיטלי / סושיאל מדיה
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://cutssmm-c395f209.zappy5.app/sitemap.xml
+- Robots: https://cutssmm-c395f209.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://cutssmm-c395f209.zappy5.app/llms-full.txt
+- Products (JSON): https://cutssmm-c395f209.zappy5.app/products.json
+- Products (Google Merchant RSS): https://cutssmm-c395f209.zappy5.app/product-feed.xml
